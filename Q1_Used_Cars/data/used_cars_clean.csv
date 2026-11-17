@@ -54,7 +54,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 55,Volkswagen Vento 2013-2015 1.6 Comfortline,Kolkata,2015,39000,First,15.04,1598.0,103.2,5.0,3.99,0,1,0,1,11,Volkswagen
 56,Renault KWID RXT,Kochi,2017,16542,First,25.17,799.0,53.3,5.0,3.3,0,1,0,1,9,Renault
 57,Hyundai i10 Asta,Kolkata,2010,32000,First,20.36,1197.0,78.9,5.0,2.07,0,1,0,1,16,Hyundai
-58,Nissan X-Trail SLX AT,Hyderabad,2010,121812,First,13.29,1995.0,147.6,5.0,7.75,1,0,1,0,16,Nissan
 59,Maruti Zen Estilo VXI BSIII,Hyderabad,2010,39300,First,18.2,998.0,67.1,5.0,2.25,0,1,0,1,16,Maruti
 60,Toyota Innova Crysta 2.4 GX MT 8S,Mumbai,2017,22000,First,13.68,2393.0,147.8,8.0,16.5,1,0,0,1,9,Toyota
 61,Ford Figo Diesel Titanium,Bangalore,2010,72000,First,20.0,1399.0,68.0,5.0,2.75,1,0,0,1,16,Ford
@@ -215,7 +214,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 224,Mercedes-Benz New C-Class C 220d Avantgarde Edition C,Coimbatore,2018,29161,First,19.27,2143.0,167.62,5.0,39.41,1,0,1,0,8,Mercedes-Benz
 225,Maruti Wagon R VXI,Kolkata,2013,32000,First,22.5,998.0,67.04,5.0,2.65,0,1,0,1,13,Maruti
 226,Nissan Terrano XV Premium 110 PS Anniversary Edition,Coimbatore,2015,46173,Second,19.01,1461.0,108.5,5.0,8.92,1,0,0,1,11,Nissan
-227,Maruti Swift VDI BSIV,Delhi,2013,47000,First,17.8,1248.0,74.0,5.0,4.1,1,0,0,1,13,Maruti
 228,Mini Cooper Convertible S,Kochi,2017,26327,First,16.82,1998.0,189.08,4.0,35.67,0,1,1,0,9,Mini
 230,Tata Indica V2 DLS BSII,Jaipur,2007,200000,Second,17.2,1396.0,53.5,5.0,0.85,1,0,0,1,19,Tata
 231,Chevrolet Beat LT,Kochi,2016,60813,Second,18.6,1199.0,76.8,5.0,3.32,0,1,0,1,10,Chevrolet
@@ -292,7 +290,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 304,Tata Indigo LX,Coimbatore,2013,59138,First,17.0,1405.0,70.0,5.0,2.58,1,0,0,1,13,Tata
 305,Audi A6 2011-2015 2.0 TDI Premium Plus,Kochi,2014,61726,First,17.68,1968.0,174.33,5.0,20.77,1,0,1,0,12,Audi
 306,Mercedes-Benz GLA Class 200 CDI SPORT,Delhi,2015,48000,First,17.9,2143.0,136.0,5.0,20.26,1,0,1,0,11,Mercedes-Benz
-308,Maruti Swift VDI BSIV,Kolkata,2011,60020,First,17.8,1248.0,74.0,5.0,2.5,1,0,0,1,15,Maruti
 309,Maruti Celerio VXI AT,Hyderabad,2014,77815,First,23.1,998.0,67.04,5.0,4.25,0,1,1,0,12,Maruti
 310,Mercedes-Benz GLE 250d,Hyderabad,2017,29000,First,17.9,2143.0,201.15,5.0,57.0,1,0,1,0,9,Mercedes-Benz
 311,Land Rover Range Rover HSE Dynamic,Delhi,2017,44000,First,12.7,2179.0,187.7,5.0,44.0,1,0,1,0,9,Land Rover
@@ -709,7 +706,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 736,Tata Safari Storme 2012-2015 LX,Kochi,2015,40611,First,14.0,2179.0,138.1,7.0,8.15,1,0,0,1,11,Tata
 737,Hyundai Accent GLS,Bangalore,2008,72000,Second,13.2,1495.0,94.0,5.0,2.0,0,1,0,1,18,Hyundai
 738,Maruti Swift LDI SP Limited Edition,Hyderabad,2016,54631,First,25.2,1248.0,74.0,5.0,6.25,1,0,0,1,10,Maruti
-739,Maruti Swift VDI BSIV,Bangalore,2007,60000,Second,17.8,1248.0,74.0,5.0,3.4,1,0,0,1,19,Maruti
 740,Tata Nano XTA,Coimbatore,2016,24941,First,21.9,624.0,37.48,4.0,3.19,0,1,1,0,10,Tata
 741,Maruti Ertiga VDI,Ahmedabad,2017,63939,First,25.47,1248.0,88.5,7.0,7.75,1,0,0,1,9,Maruti
 742,Maruti Celerio VXI AMT,Delhi,2014,35214,Second,23.1,998.0,67.04,5.0,3.2,0,1,1,0,12,Maruti
@@ -797,7 +793,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 826,Volkswagen Polo Diesel Comfortline 1.2L,Ahmedabad,2013,55000,First,22.07,1199.0,73.9,5.0,4.25,1,0,0,1,13,Volkswagen
 827,Maruti Alto 800 LXI,Hyderabad,2014,58500,First,22.74,796.0,47.3,5.0,2.75,0,1,0,1,12,Maruti
 828,Hyundai i20 Asta Option 1.2,Kochi,2017,58620,First,18.6,1197.0,81.83,5.0,7.14,0,1,0,1,9,Hyundai
-829,Toyota Etios Liva G,Mumbai,2012,29605,First,18.3,1197.0,78.9,5.0,2.44,0,1,0,1,14,Toyota
 830,Hyundai i20 1.2 Sportz,Jaipur,2012,71172,Third,17.0,1197.0,80.0,5.0,3.5,0,1,0,1,14,Hyundai
 831,Hyundai i20 1.4 Asta,Chennai,2017,12000,First,22.54,1396.0,88.73,5.0,7.3,1,0,0,1,9,Hyundai
 832,Maruti Wagon R LXI Optional,Kolkata,2014,25000,First,20.51,998.0,67.04,5.0,2.75,0,1,0,1,12,Maruti
@@ -898,7 +893,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 931,Maruti Ciaz 1.4 Delta,Ahmedabad,2017,6006,First,20.73,1373.0,91.1,5.0,8.25,0,1,0,1,9,Maruti
 932,Mercedes-Benz New C-Class C 200 Avantgarde Edition C,Kochi,2011,71703,First,14.74,1991.0,181.03,5.0,9.14,0,1,1,0,15,Mercedes-Benz
 933,Honda Amaze SX i-VTEC,Hyderabad,2016,33000,First,17.8,1198.0,86.7,5.0,6.5,0,1,0,1,10,Honda
-934,Toyota Etios GD,Kolkata,2012,60000,First,23.59,1364.0,67.05,5.0,2.95,1,0,0,1,14,Toyota
 935,Renault Duster 85PS Diesel RxL,Jaipur,2015,91000,First,19.87,1461.0,83.8,5.0,5.75,1,0,0,1,11,Renault
 937,Volkswagen Polo Petrol Highline 1.2L,Kolkata,2011,43000,Second,16.47,1198.0,73.9,5.0,2.1,0,1,0,1,15,Volkswagen
 938,Hyundai Creta 1.6 SX Plus Diesel,Coimbatore,2017,63770,First,19.67,1582.0,126.2,5.0,13.55,1,0,0,1,9,Hyundai
@@ -1027,7 +1021,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 1065,Toyota Innova Crysta 2.8 ZX AT,Bangalore,2016,108000,First,11.36,2755.0,171.5,7.0,20.5,1,0,1,0,10,Toyota
 1066,Skoda Laura Elegance MT,Jaipur,2010,82407,First,17.5,1896.0,106.0,5.0,4.25,1,0,0,1,16,Skoda
 1067,Hyundai Grand i10 Sportz,Kolkata,2013,29000,First,18.9,1197.0,82.0,5.0,3.2,0,1,0,1,13,Hyundai
-1068,Toyota Etios Liva GD,Pune,2012,225000,Second,23.59,1364.0,67.04,5.0,2.6,1,0,0,1,14,Toyota
 1069,Maruti Swift Dzire VDI,Kolkata,2014,45000,First,23.4,1248.0,74.0,5.0,3.85,1,0,0,1,12,Maruti
 1070,Hyundai i20 Asta 1.4 CRDi (Diesel),Kochi,2010,93401,First,23.0,1396.0,90.0,5.0,3.48,1,0,0,1,16,Hyundai
 1071,Ford Figo 2015-2019 1.5D Trend MT,Hyderabad,2017,95802,Second,25.83,1498.0,99.0,5.0,4.55,1,0,0,1,9,Ford
@@ -1101,7 +1094,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 1140,Toyota Innova Crysta 2.8 ZX AT,Hyderabad,2016,69000,First,11.36,2755.0,171.5,7.0,19.75,1,0,1,0,10,Toyota
 1141,Renault Duster 110PS Diesel RxZ AMT,Coimbatore,2017,30090,First,19.6,1461.0,108.45,5.0,11.44,1,0,1,0,9,Renault
 1142,Tata Indica Vista Aura 1.3 Quadrajet,Chennai,2011,120000,First,18.0,1248.0,75.0,5.0,1.75,1,0,0,1,15,Tata
-1143,Maruti Swift VDI BSIV,Bangalore,2013,23000,First,17.8,1248.0,74.0,5.0,5.6,1,0,0,1,13,Maruti
 1144,Mercedes-Benz E-Class 2009-2013 E 200 CGI Avantgarde,Kochi,2016,35939,First,12.3,1796.0,185.0,5.0,30.42,0,1,0,1,10,Mercedes-Benz
 1145,Mahindra XUV500 W8 4WD,Coimbatore,2013,116694,First,15.1,2179.0,140.0,7.0,9.57,1,0,0,1,13,Mahindra
 1146,Mahindra Bolero ZLX,Mumbai,2016,40448,First,15.96,2523.0,62.1,7.0,3.5,1,0,0,1,10,Mahindra
@@ -1332,7 +1324,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 1385,Honda City 1.5 GXI,Pune,2004,115000,Second,12.8,1493.0,100.0,5.0,1.5,0,1,0,1,22,Honda
 1386,BMW 5 Series 520d Sport Line,Kochi,2019,18373,First,22.48,1995.0,187.74,5.0,45.86,1,0,1,0,7,BMW
 1387,Volkswagen Polo 1.2 MPI Highline,Hyderabad,2016,60453,First,16.47,1198.0,74.0,5.0,5.1,0,1,0,1,10,Volkswagen
-1388,Maruti Swift VDI BSIV,Pune,2013,37000,First,17.8,1248.0,74.0,5.0,4.85,1,0,0,1,13,Maruti
 1389,Ford Figo Petrol ZXI,Mumbai,2010,69009,Second,15.6,1196.0,70.0,5.0,2.4,0,1,0,1,16,Ford
 1390,BMW 3 Series 320d Luxury Line,Hyderabad,2013,30000,First,18.88,1995.0,184.0,5.0,22.0,1,0,1,0,13,BMW
 1391,Hyundai Verna 1.6 SX CRDi (O),Delhi,2012,70707,First,22.32,1582.0,126.32,5.0,4.28,1,0,0,1,14,Hyundai
@@ -1518,7 +1509,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 1575,BMW X1 sDrive 20d Exclusive,Pune,2011,102000,First,15.06,1995.0,177.0,5.0,13.75,1,0,1,0,15,BMW
 1576,Hyundai Grand i10 1.2 CRDi Sportz Option,Kolkata,2014,42277,First,24.0,1186.0,73.97,5.0,3.85,1,0,0,1,12,Hyundai
 1577,Mercedes-Benz E-Class E250 CDI Avantgrade,Mumbai,2014,46000,First,13.0,2143.0,201.1,5.0,23.25,1,0,1,0,12,Mercedes-Benz
-1578,Mahindra Bolero ZLX,Chennai,2012,35000,First,13.6,2523.0,62.1,7.0,7.0,1,0,0,1,14,Mahindra
 1579,Hyundai Grand i10 Asta Option,Bangalore,2015,50000,First,18.9,1197.0,82.0,5.0,5.75,0,1,0,1,11,Hyundai
 1580,Hyundai i10 Magna 1.2,Mumbai,2008,62000,Second,20.36,1197.0,78.9,5.0,1.65,0,1,0,1,18,Hyundai
 1581,Volkswagen Jetta 2012-2014 2.0L TDI Comfortline,Mumbai,2012,78000,First,19.33,1968.0,138.1,5.0,6.5,1,0,0,1,14,Volkswagen
@@ -1589,7 +1579,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 1646,Volkswagen Polo Petrol Highline 1.2L,Coimbatore,2011,44748,Second,16.47,1198.0,73.9,5.0,4.89,0,1,0,1,15,Volkswagen
 1647,Nissan Terrano XL,Mumbai,2013,31000,First,13.24,1598.0,102.5,5.0,4.95,0,1,0,1,13,Nissan
 1648,Maruti A-Star AT Vxi Aktiv,Coimbatore,2013,60587,Second,16.98,998.0,66.1,5.0,3.49,0,1,1,0,13,Maruti
-1649,Toyota Etios Liva GD,Pune,2011,32000,First,23.59,1364.0,67.04,5.0,3.85,1,0,0,1,15,Toyota
 1650,Honda City 1.5 S MT,Pune,2014,43772,First,17.0,1497.0,118.0,5.0,6.35,0,1,0,1,12,Honda
 1651,Hyundai Grand i10 AT Asta,Coimbatore,2017,23576,First,18.9,1197.0,82.0,5.0,7.08,0,1,1,0,9,Hyundai
 1652,Jaguar XE 2.0L Diesel Prestige,Hyderabad,2017,4000,First,13.6,1999.0,177.0,5.0,38.0,1,0,1,0,9,Jaguar
@@ -2187,7 +2176,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 2259,Hyundai Santa Fe 4WD AT,Bangalore,2015,59000,First,13.01,2199.0,194.3,7.0,21.0,1,0,1,0,11,Hyundai
 2260,BMW 5 Series 520d Luxury Line,Ahmedabad,2012,95000,Second,22.48,1995.0,190.0,5.0,17.5,1,0,1,0,14,BMW
 2261,Ford Fiesta EXi 1.4 TDCi Ltd,Hyderabad,2010,84000,Second,17.8,1399.0,68.0,5.0,2.41,1,0,0,1,16,Ford
-2262,Toyota Etios GD,Bangalore,2012,58253,Second,23.59,1364.0,67.05,5.0,4.45,1,0,0,1,14,Toyota
 2263,Land Rover Range Rover 2.2L Prestige,Coimbatore,2014,64557,Second,12.7,2179.0,187.7,5.0,29.93,1,0,1,0,12,Land Rover
 2264,Toyota Etios Liva V,Pune,2012,24500,Second,18.3,1197.0,78.9,5.0,2.95,0,1,0,1,14,Toyota
 2265,Maruti Alto LX,Kolkata,2009,68078,First,19.7,796.0,46.3,5.0,1.02,0,1,0,1,17,Maruti
@@ -2307,7 +2295,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 2390,Skoda Superb Elegance 1.8 TSI AT,Kochi,2016,56674,First,13.7,1798.0,157.75,5.0,14.05,0,1,1,0,10,Skoda
 2391,Maruti Ciaz VXi Plus,Kochi,2016,51950,First,20.73,1373.0,91.1,5.0,6.75,0,1,0,1,10,Maruti
 2392,Hyundai Creta 1.6 CRDi SX,Kolkata,2016,51000,First,19.67,1582.0,126.2,5.0,9.2,1,0,0,1,10,Hyundai
-2393,Toyota Etios GD,Chennai,2012,150000,Third,23.59,1364.0,67.05,5.0,3.0,1,0,0,1,14,Toyota
 2394,Honda City 1.5 S MT,Chennai,2008,114750,Second,17.0,1497.0,118.0,5.0,2.75,0,1,0,1,18,Honda
 2395,Ford Endeavour 2.2 Trend MT 4X4,Hyderabad,2016,107890,First,13.5,2198.0,157.7,7.0,20.5,1,0,0,1,10,Ford
 2396,Hyundai i20 2015-2017 1.4 Magna ABS,Pune,2012,64000,First,21.9,1396.0,90.0,5.0,4.25,1,0,0,1,14,Hyundai
@@ -2353,7 +2340,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 2438,Maruti Dzire VDI,Hyderabad,2011,110000,First,28.4,1248.0,73.75,5.0,4.0,1,0,0,1,15,Maruti
 2439,Honda City 1.5 S MT,Kolkata,2010,38446,First,17.0,1497.0,118.0,5.0,2.59,0,1,0,1,16,Honda
 2440,Maruti Baleno Delta 1.3,Delhi,2017,33000,First,27.39,1248.0,74.0,5.0,6.96,1,0,0,1,9,Maruti
-2441,Toyota Etios Liva G,Kolkata,2011,42118,First,18.3,1197.0,78.9,5.0,2.19,0,1,0,1,15,Toyota
 2442,Hyundai EON Era Plus,Jaipur,2016,70000,First,21.1,814.0,55.2,5.0,3.0,0,1,0,1,10,Hyundai
 2443,Volkswagen Polo 1.5 TDI Highline,Delhi,2012,68038,First,20.14,1498.0,88.0,5.0,3.6,1,0,0,1,14,Volkswagen
 2444,Chevrolet Beat Diesel LS,Coimbatore,2014,55012,Second,25.44,936.0,57.6,5.0,3.7,1,0,0,1,12,Chevrolet
@@ -2408,11 +2394,9 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 2494,Hyundai i10 Era 1.1,Jaipur,2011,70000,First,19.81,1086.0,68.05,5.0,2.15,0,1,0,1,15,Hyundai
 2495,Skoda Superb Style 1.8 TSI AT,Mumbai,2010,62004,Second,14.67,1798.0,177.46,5.0,3.75,0,1,1,0,16,Skoda
 2496,Volkswagen Vento 1.5 TDI Highline AT,Mumbai,2016,25500,First,21.5,1498.0,108.5,5.0,8.95,1,0,1,0,10,Volkswagen
-2497,Maruti Swift VDI BSIV,Hyderabad,2013,68800,First,17.8,1248.0,74.0,5.0,5.0,1,0,0,1,13,Maruti
 2498,Honda Civic 2010-2013 1.8 V MT,Pune,2010,61700,First,14.8,1799.0,130.2,5.0,2.95,0,1,0,1,16,Honda
 2499,BMW 3 Series 320i Sedan,Coimbatore,2010,59660,First,12.05,1995.0,154.0,5.0,10.49,0,1,1,0,16,BMW
 2500,Hyundai Santro Xing GLS,Hyderabad,2007,69775,Second,17.92,1086.0,62.1,5.0,1.85,0,1,0,1,19,Hyundai
-2501,Maruti Swift VDI BSIV,Hyderabad,2016,51787,First,17.8,1248.0,74.0,5.0,6.45,1,0,0,1,10,Maruti
 2502,Honda Accord 2001-2003 2.3 VTi L AT,Jaipur,2009,88000,First,11.1,2354.0,142.0,5.0,5.25,0,1,1,0,17,Honda
 2503,Maruti Ertiga VDI,Kolkata,2014,47052,First,20.77,1248.0,88.76,7.0,5.99,1,0,0,1,12,Maruti
 2504,Ford Fiesta Classic 1.4 Duratorq LXI,Kochi,2015,69749,First,18.6,1388.0,67.0,5.0,3.82,1,0,0,1,11,Ford
@@ -2542,7 +2526,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 2636,Hyundai Grand i10 AT Asta,Coimbatore,2015,33931,Second,18.9,1197.0,82.0,5.0,5.91,0,1,1,0,11,Hyundai
 2637,Hyundai Grand i10 1.2 Kappa Sportz Option,Coimbatore,2019,13916,First,18.9,1197.0,81.86,5.0,6.44,0,1,0,1,7,Hyundai
 2639,Hyundai Grand i10 Sportz,Jaipur,2015,14000,First,18.9,1197.0,82.0,5.0,4.6,0,1,0,1,11,Hyundai
-2640,Maruti Swift VDI BSIV,Pune,2007,121000,Second,17.8,1248.0,74.0,5.0,2.35,1,0,0,1,19,Maruti
 2641,Hyundai i20 Asta 1.2,Coimbatore,2016,17560,First,18.6,1197.0,81.83,5.0,7.21,0,1,0,1,10,Hyundai
 2642,Renault Duster 85PS Diesel RxL,Pune,2016,60000,First,19.87,1461.0,83.8,5.0,8.0,1,0,0,1,10,Renault
 2643,Maruti Swift Dzire VDi,Hyderabad,2009,88096,Second,19.3,1248.0,73.9,5.0,3.5,1,0,0,1,17,Maruti
@@ -2787,7 +2770,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 2888,Volkswagen Vento Diesel Trendline,Hyderabad,2012,110000,Second,20.54,1598.0,103.6,5.0,3.65,1,0,0,1,14,Volkswagen
 2889,Ford Endeavour 2.5L 4X2 MT,Kochi,2011,68022,First,13.1,2499.0,141.0,7.0,5.86,1,0,0,1,15,Ford
 2890,Ford EcoSport 1.5 Petrol Titanium Plus AT,Coimbatore,2018,27852,First,14.8,1497.0,121.36,5.0,10.44,0,1,1,0,8,Ford
-2891,Maruti Swift VDI BSIV,Bangalore,2013,58291,First,17.8,1248.0,74.0,5.0,5.0,1,0,0,1,13,Maruti
 2892,Hyundai i20 Sportz Diesel,Coimbatore,2011,68439,First,23.0,1396.0,90.0,5.0,3.37,1,0,0,1,15,Hyundai
 2893,Toyota Innova 2.5 VX (Diesel) 8 Seater,Delhi,2011,150000,First,12.99,2494.0,100.6,8.0,6.95,1,0,0,1,15,Toyota
 2894,Tata Nexon 1.5 Revotorq XZ Plus Dual Tone,Mumbai,2018,14000,First,21.5,1497.0,108.5,5.0,9.9,1,0,0,1,8,Tata
@@ -2992,7 +2974,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 3101,Nissan Micra Diesel XV,Kolkata,2011,39002,First,23.08,1461.0,63.1,5.0,2.85,1,0,0,1,15,Nissan
 3102,Ford Figo Diesel EXI,Pune,2010,129986,Second,20.0,1399.0,68.0,5.0,3.2,1,0,0,1,16,Ford
 3103,Nissan Micra XL,Kolkata,2013,45000,First,18.44,1198.0,75.0,5.0,1.75,0,1,0,1,13,Nissan
-3104,Maruti Swift VDI BSIV,Kolkata,2013,41300,First,17.8,1248.0,74.0,5.0,3.38,1,0,0,1,13,Maruti
 3105,Honda Accord 2.4 MT,Ahmedabad,2009,82002,Second,12.8,2354.0,177.6,5.0,5.75,0,1,0,1,17,Honda
 3106,Skoda Superb Elegance 1.8 TSI AT,Mumbai,2010,67000,First,13.7,1798.0,157.75,5.0,4.7,0,1,1,0,16,Skoda
 3107,Maruti Omni 8 Seater BSIV,Hyderabad,2017,21260,First,14.0,796.0,35.0,5.0,2.9,0,1,0,1,9,Maruti
@@ -3130,7 +3111,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 3244,Jeep Compass 2.0 Limited Option 4X4,Kolkata,2017,15050,First,16.3,1956.0,170.0,5.0,17.5,1,0,0,1,9,Jeep
 3245,Maruti Swift VXI BSIV,Mumbai,2016,29401,First,20.4,1197.0,81.8,5.0,4.31,0,1,0,1,10,Maruti
 3246,Honda Jazz 1.2 SV i VTEC,Kochi,2016,25238,First,18.7,1199.0,88.7,5.0,6.2,0,1,0,1,10,Honda
-3247,Toyota Etios GD,Chennai,2011,79000,First,23.59,1364.0,67.05,5.0,4.67,1,0,0,1,15,Toyota
 3248,Volkswagen Polo Petrol Trendline 1.2L,Kochi,2011,58752,First,16.47,1198.0,73.9,5.0,3.32,0,1,0,1,15,Volkswagen
 3249,Honda Civic 2006-2010 1.8 V AT,Delhi,2011,62000,First,12.9,1799.0,130.0,5.0,3.75,0,1,1,0,15,Honda
 3250,Toyota Etios G SP,Bangalore,2013,132000,First,16.78,1496.0,88.73,5.0,4.7,0,1,0,1,13,Toyota
@@ -3755,7 +3735,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 3895,Mahindra XUV500 W8 2WD,Pune,2011,90000,Second,15.1,2179.0,140.0,7.0,6.1,1,0,0,1,15,Mahindra
 3896,Maruti Swift Dzire VDi,Hyderabad,2010,130000,First,19.3,1248.0,73.9,5.0,3.85,1,0,0,1,16,Maruti
 3897,Volkswagen Vento Petrol Highline,Pune,2013,65000,Second,15.04,1598.0,103.6,5.0,4.5,0,1,0,1,13,Volkswagen
-3898,Toyota Etios GD,Coimbatore,2013,46496,First,23.59,1364.0,67.05,5.0,5.3,1,0,0,1,13,Toyota
 3899,Audi A4 2.0 TDI,Bangalore,2013,76000,Second,16.55,1968.0,147.51,5.0,18.25,1,0,1,0,13,Audi
 3900,Maruti Ertiga LXI,Ahmedabad,2012,28002,First,16.02,1373.0,93.7,7.0,5.75,0,1,0,1,14,Maruti
 3902,Maruti 800 AC,Jaipur,2010,70000,Second,16.1,796.0,37.0,4.0,0.9,0,1,0,1,16,Maruti
@@ -3932,7 +3911,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 4076,Hyundai i20 1.2 Sportz Option,Kochi,2016,69681,First,17.0,1197.0,80.0,5.0,6.13,0,1,0,1,10,Hyundai
 4078,Honda Amaze S AT i-Vtech,Pune,2014,49112,Second,15.5,1198.0,86.7,5.0,3.79,0,1,1,0,12,Honda
 4079,Land Rover Range Rover 3.0 Diesel LWB Vogue,Hyderabad,2017,25000,First,13.33,2993.0,255.0,5.0,160.0,1,0,1,0,9,Land Rover
-4080,Toyota Etios Liva GD,Mumbai,2011,74000,First,23.59,1364.0,67.04,5.0,3.6,1,0,0,1,15,Toyota
 4081,Hyundai i10 Sportz 1.2 AT,Pune,2013,15200,Second,16.95,1197.0,78.9,5.0,3.85,0,1,1,0,13,Hyundai
 4082,Volkswagen Polo Diesel Trendline 1.2L,Hyderabad,2013,86300,First,22.07,1199.0,73.9,5.0,4.5,1,0,0,1,13,Volkswagen
 4083,Maruti Baleno RS Petrol,Coimbatore,2018,26731,First,21.1,998.0,100.0,5.0,8.61,0,1,0,1,8,Maruti
@@ -4199,7 +4177,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 4350,Toyota Innova Crysta 2.4 VX MT 8S,Coimbatore,2019,31271,First,13.68,2393.0,147.8,8.0,21.42,1,0,0,1,7,Toyota
 4352,Maruti Swift VDI BSIV,Delhi,2014,24000,First,25.2,1248.0,74.0,5.0,5.21,1,0,0,1,12,Maruti
 4353,Toyota Innova 2.5 GX (Diesel) 7 Seater,Hyderabad,2009,147000,First,12.99,2494.0,100.6,7.0,7.5,1,0,0,1,17,Toyota
-4354,Toyota Etios Liva GD,Delhi,2012,72351,First,23.59,1364.0,67.04,5.0,2.65,1,0,0,1,14,Toyota
 4355,Chevrolet Beat LT,Chennai,2010,115000,First,18.6,1199.0,79.4,5.0,1.75,0,1,0,1,16,Chevrolet
 4356,Ford Ikon 1.4 TDCi DuraTorq,Jaipur,2010,82000,Second,13.8,1399.0,68.0,5.0,1.0,1,0,0,1,16,Ford
 4357,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Delhi,2016,20000,First,19.27,2143.0,170.0,5.0,33.0,1,0,1,0,10,Mercedes-Benz
@@ -4779,7 +4756,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 4950,Ford Aspire Titanium Diesel,Kolkata,2017,60048,First,26.1,1498.0,99.0,5.0,6.0,1,0,0,1,9,Ford
 4951,Hyundai i10 Sportz,Mumbai,2009,48000,First,20.36,1197.0,78.9,5.0,2.11,0,1,0,1,17,Hyundai
 4953,Maruti Alto LXi,Jaipur,2011,100000,First,19.7,796.0,46.3,5.0,1.5,0,1,0,1,15,Maruti
-4954,Toyota Etios Liva GD,Coimbatore,2013,62601,First,23.59,1364.0,67.04,5.0,4.67,1,0,0,1,13,Toyota
 4955,Maruti Swift VXI BSIV,Bangalore,2006,80010,Second,20.4,1197.0,81.8,5.0,2.85,0,1,0,1,20,Maruti
 4956,Mercedes-Benz New C-Class C 220 CDI Avantgarde,Coimbatore,2017,26493,First,19.27,2143.0,170.0,5.0,33.64,1,0,1,0,9,Mercedes-Benz
 4957,Tata Indica V2 DLE BSIII,Hyderabad,2011,96000,Second,17.88,1396.0,52.8,5.0,0.91,1,0,0,1,15,Tata
@@ -5270,7 +5246,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 5455,Ford Figo Petrol ZXI,Kolkata,2010,114703,First,15.6,1196.0,70.0,5.0,1.8,0,1,0,1,16,Ford
 5456,Honda Amaze S i-Dtech,Kochi,2014,97439,First,25.8,1498.0,98.6,5.0,4.41,1,0,0,1,12,Honda
 5457,Maruti Wagon R LX BSII,Chennai,2006,40000,First,18.9,998.0,67.1,5.0,2.0,0,1,0,1,20,Maruti
-5458,Maruti Swift VDI BSIV,Hyderabad,2014,81609,First,17.8,1248.0,74.0,5.0,5.55,1,0,0,1,12,Maruti
 5459,Mercedes-Benz E-Class Facelift,Bangalore,2014,28000,First,13.0,2987.0,258.0,5.0,31.75,1,0,1,0,12,Mercedes-Benz
 5460,Audi A6 2011-2015 35 TDI Technology,Bangalore,2015,37500,First,17.68,1968.0,174.33,5.0,32.0,1,0,1,0,11,Audi
 5461,Mercedes-Benz S Class 2005 2013 S 350 CDI,Hyderabad,2010,37000,First,13.5,2987.0,282.0,5.0,21.0,1,0,1,0,16,Mercedes-Benz
@@ -5777,7 +5752,6 @@ Listing_ID,Name,Location,Year,Kilometers_Driven,Owner_Type,Mileage,Engine,Power,
 5982,Tata Hexa XTA,Jaipur,2016,39000,First,17.6,2179.0,153.86,7.0,13.5,1,0,1,0,10,Tata
 5983,Volkswagen Polo Petrol Comfortline 1.2L,Kolkata,2011,55001,First,16.47,1198.0,73.9,5.0,2.2,0,1,0,1,15,Volkswagen
 5984,Mercedes-Benz New C-Class C 200 CGI Elegance,Mumbai,2012,63720,First,11.74,1796.0,186.0,5.0,13.25,0,1,1,0,14,Mercedes-Benz
-5985,Toyota Etios GD,Delhi,2013,70000,First,23.59,1364.0,67.05,5.0,3.88,1,0,0,1,13,Toyota
 5986,Hyundai Getz GLS,Jaipur,2005,100000,Second,15.3,1341.0,83.0,5.0,0.85,0,1,0,1,21,Hyundai
 5987,Tata Tiago 1.2 Revotron XT,Kochi,2017,15386,First,23.84,1199.0,84.0,5.0,5.11,0,1,0,1,9,Tata
 5988,Renault Duster 85PS Diesel RxL Option,Mumbai,2013,102486,First,19.87,1461.0,83.8,5.0,4.25,1,0,0,1,13,Renault

@@ -7,7 +7,7 @@ Assignment2/
 ├── README.md
 ├── Q1_Used_Cars/
 │   ├── data/
-│   │   ├── train.csv                 # raw used-car listings (Petrol/Diesel)
+│   │   ├── train.csv                 # used-car listings provided for the assignment
 │   │   └── used_cars_clean.csv       # output of the Q1 notebook
 │   └── notebooks/
 │       └── Q1_Used_Cars_Data_Prep.ipynb
@@ -19,7 +19,7 @@ Assignment2/
 ```
 
 ## Q1: Used cars (`Q1_Used_Cars_Data_Prep.ipynb`)
-- **(a) Missing values:** found hidden placeholders (`null bhp`, `0.0 kmpl`). Engine, Power, Mileage, and Seats were imputed with the mode of the same car model. The remaining Seats gaps got the overall mode (5). The 141 rows (2.4%) with no same-model reference were dropped. `New_Price` (86% missing) was dropped.
+- **(a) Missing values:** found hidden missing values (`0.0 kmpl`, and 3 Mileage values in `km/kg`, a CNG unit that can't be converted to kmpl). Engine, Power, Mileage, and Seats were imputed with the mode of the same car model. The remaining Seats gaps got the overall mode (5). The 63 rows (1.1%) with no same-model reference were dropped, including the 2 Electric cars. `New_Price` (86% missing) was dropped.
 - **(b) Units removed:** `kmpl`, `CC`, `bhp`, and `Lakh`/`Cr` (crore converted to lakh).
 - **(c) One-hot encoding** of `Fuel_Type` and `Transmission`.
 - **(d) New features:** `Car_Age` (current year − Year) and `Brand`.
