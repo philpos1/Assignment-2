@@ -3,7 +3,7 @@
 All source code is in Jupyter notebooks (Python: pandas, NumPy, matplotlib). The notebooks are saved with their outputs and charts, so they display directly on GitHub.
 
 ```
-Assignment2/
+Assignment-2/
 ├── README.md
 ├── Q1_Used_Cars/
 │   ├── data/
